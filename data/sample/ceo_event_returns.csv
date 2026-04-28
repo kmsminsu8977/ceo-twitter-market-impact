@@ -1,0 +1,5 @@
+event_id,event_date,symbol,event_tone,market_return,stock_return_t_minus_1,stock_return_t0,stock_return_t_plus_1
+E001,2026-02-03,AAA,positive,0.002,0.001,0.018,0.006
+E002,2026-02-14,BBB,negative,-0.003,-0.004,-0.026,-0.011
+E003,2026-02-20,CCC,neutral,0.001,0.002,0.004,-0.001
+E004,2026-03-02,AAA,negative,-0.002,0.0,-0.017,-0.006

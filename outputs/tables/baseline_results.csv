@@ -1,0 +1,5 @@
+event_id,symbol,event_tone,abnormal_return_t_minus_1,abnormal_return_t0,abnormal_return_t_plus_1,car_3day
+E001,AAA,positive,-0.001,0.016,0.004,0.019
+E002,BBB,negative,-0.001,-0.023,-0.008,-0.032
+E003,CCC,neutral,0.001,0.003,-0.002,0.002
+E004,AAA,negative,0.002,-0.015,-0.004,-0.017
